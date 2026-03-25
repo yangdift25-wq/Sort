@@ -1,4 +1,7 @@
-//堆排序
+时间复杂度O(n^2)
+
+
+//插入排序
 
 void InsertSort(int* a, int n)
 {
