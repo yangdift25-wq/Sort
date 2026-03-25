@@ -1,3 +1,6 @@
+时间复杂度O(n^1.3)左右
+
+
 #include"ShellSort.h"
 
 void Print(int* a, int n)
