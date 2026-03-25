@@ -1,3 +1,6 @@
+时间复杂度O(n^2)
+
+
 //冒泡排序
 void Bubble(int* a, int n)
 {
