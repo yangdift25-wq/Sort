@@ -16,6 +16,8 @@ void ShellSort(int* a, int n)
 {
 	//先大步后小步
 	int gap = n / 2;
+	//外面预排序次数log2 n
+	
 	while (gap > 0)//循环每一次循环过后gap/2
 	{
 		//前gap个元素默认排好序了,从每组第二个元素拿出来插入
