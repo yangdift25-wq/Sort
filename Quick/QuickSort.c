@@ -1,3 +1,5 @@
+时间复杂度O(nlongn)
+
 //快速排序
 
 void QuickSort(int* a, int left, int right)
