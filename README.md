@@ -11,3 +11,4 @@
 平均很快(O(nlog n))，工程上更常用
 但是不稳定，时间复杂度有可能退化到O(n^2)
 空间上更省
+<img width="1719" height="462" alt="6a4054a4543e003a12d1df869b27c5ea" src="https://github.com/user-attachments/assets/367a7b4d-b580-4fa1-9db9-ed568d00107b" />
